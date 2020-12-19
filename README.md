@@ -23,7 +23,7 @@ I am a software developer. I love building applications & discussing new product
 
 ### I'm Currently
 
-- 💻 I’m currently working on my Competitive Programming skills and software architecture
+- 💻 Working on my Competitive Programming skills and software architecture
 - 💬 Brainstorm with me over tech, algorithms, career, game, and music 
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 
@@ -52,3 +52,7 @@ I am a software developer. I love building applications & discussing new product
 [twitch]: https://www.twitch.tv/evan_edinger
 [github]: https://github.com/OneTe
 [Mi]:https://github.com/XiaoMi
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
